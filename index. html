@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html lang="ta">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PRITHIKASRI TRAVELS</title>
+<style>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #f4f4f4;
+  color: #222;
+}
+header {
+  background: #111827;
+  color: gold;
+  padding: 25px 10px;
+}
+section {
+  padding: 20px 10px;
+}
+.btn {
+  display: inline-block;
+  padding: 14px 20px;
+  margin: 8px;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+}
+.call { background: green; }
+.whatsapp { background: #25D366; }
+</style>
+</head>
+<body>
+<header>
+<h1>PRITHIKASRI TRAVELS</h1>
+<p>Your Trusted Travel Partner</p>
+<p>Thanjavur, Tamil Nadu</p>
+</header>
+<section>
+<h2>எங்கள் சேவைகள்</h2>
+<p>🚘 Car Rental</p>
+<p>🛕 Temple Tours</p>
+<p>✈️ Airport Pickup</p>
+<p>🗺️ Outstation Trips</p>
+<a class="btn call" href="tel:9790681474">Call Now</a>
+<br>
+<a class="btn whatsapp" href="https://wa.me/919790681474?text=I%20want%20to%20book%20a%20cab">WhatsApp Booking</a>
+</section>
+</body>
+</html>
